@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+  <meta charset="UTF-8"/> <!-- Character encoding -->
+  <title>Nikolas Chorianopoulos</title> <!-- Title displayed in browser tab -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body> <!-- Page content goes inside here-->
+    
+    <header>
+    </header>
+
+    <main>
+        <section>
+        </section>
+    </main>
+
+    <footer>
+    </footer>
+
+
+
+
+
+
+    <script src="scripts.js"></script>
+</body>
+</html>
