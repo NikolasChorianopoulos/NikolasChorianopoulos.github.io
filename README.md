@@ -1,3 +1,2 @@
-# NikolasChorianopoulos.gitub.io
-# BEAST POWER ENERGY CLICKER
-# GET TO THE FINAL BEAST. WHITE BEASTTTTTTT
+# NikolasChorianopoulos.github.io
+
